@@ -1,0 +1,32 @@
+
+
+html {
+  background: url(https://i.pinimg.com/originals/1b/ab/cb/1babcbdffc7196c0a06fba1f5f5e7894.png),url(https://i.pinimg.com/originals/d5/58/12/d55812b6d9c2509399806695787b83f3.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size:cover;
+}
+
+ #button1 {
+   background-color:green;
+    color:white;
+    padding:15px 32px;
+    font-size:16px;
+    font-family: 'Grand Hotel', cursive;
+
+}
+#button2 {
+  background-color:green;
+   color:white;
+   padding:15px 32px;
+   font-size:16px;
+
+}
+#button3 {
+  background-color:green;
+   color:white;
+   padding:15px 32px;
+   font-size:16px;
+
+}
